@@ -7,4 +7,9 @@
 * [安装中文输入法](https://www.cnblogs.com/darklights/p/7722861.html)
 * [安装git并开始使用](https://github.com/daodaogua/cheat-sheet/tree/master/git)
 * [emacs的配置和使用](https://github.com/daodaogua/cheat-sheet/tree/master/emacs)
+* [miniconda的使用]()
+* [sublime的使用]()
+* [ipython的使用]()
+  - 注意不要使用python3.6, 有bug
+
 
