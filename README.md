@@ -11,5 +11,15 @@
 * [sublime的使用]()
 * [ipython的使用]()
   - 注意不要使用python3.6, 有bug
+* [NoMachine]()
+
+
+## window10
+* [XMind]
+* [NoMachine]
+* [draw.io]
+* [Shadowsockes]
+* [foxit]
+* [Chrome]
 
 
